@@ -8,6 +8,6 @@
 ```cmd
   curl --version
 ```
-
-<p color="blue">fdsfd
-  </p>
+```bash
+fdsfds
+```
