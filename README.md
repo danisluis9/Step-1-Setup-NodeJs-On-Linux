@@ -4,6 +4,6 @@
     <a href="https://nodejs.org/en/download/package-manager/">Installing Node.js via package manager</a>
   </li>
 </ul>
-<ul>
+<ol>
   <li>1. Arch Linux</li>
-</ul>
+</ol>
