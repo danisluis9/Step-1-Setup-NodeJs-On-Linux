@@ -6,4 +6,8 @@
 </ul>
 <ol>
   <li>Arch Linux</li>
+  <li>
+    Install Curl
+    <p>fdsfs</p>
+  </li>
 </ol>
