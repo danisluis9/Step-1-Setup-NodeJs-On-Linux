@@ -8,6 +8,4 @@
 ```cmd
   curl --version
 ```
-```bash
-fdsfds
-```
+1. <p><strong>Alternatively, for Node.js 10:</strong></p>
