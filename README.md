@@ -5,5 +5,5 @@
   </li>
 </ul>
 <ol>
-  <li>1. Arch Linux</li>
+  <li>Arch Linux</li>
 </ol>
