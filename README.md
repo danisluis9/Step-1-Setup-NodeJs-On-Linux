@@ -8,6 +8,10 @@
   <li>Arch Linux</li>
   <li>
     Install Curl
-    <p>fdsfs</p>
+    <p>
+      ```bash
+        curl --version
+      ```
+    </p>
   </li>
 </ol>
